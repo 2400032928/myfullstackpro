@@ -9,5 +9,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/24000032928/my-project-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/24000032928/my-project-backend/issues"
+  },
+  "homepage": "https://github.com/24000032928/my-project-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
 }
